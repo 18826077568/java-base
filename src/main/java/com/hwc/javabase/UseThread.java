@@ -1,4 +1,4 @@
-package com.hwc.javabase.mutilthread;
+package com.hwc.javabase;
 
 /**
  * @Description
